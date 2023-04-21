@@ -1,0 +1,3 @@
+# Header-only c++ gpio library
+# Odroid XU4 and N2Plus boards tested
+# License GPL3
