@@ -1,3 +1,6 @@
 # Header-only c++ gpio library
 # Odroid XU4 and N2Plus boards tested
 # License GPL3
+# The library built over the memory mapped gpio service. Tested with Debian 11 (Bullseye) both 32 and 64 bits.
+# Not all pins are exposed. Use it as an example to expand pin list if necessary.
+# For N2Plus it is more or less straight forward, for XU4 it is a bit more tricky but still possible with help of Odroid wiki pages.
